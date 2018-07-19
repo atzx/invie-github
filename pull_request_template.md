@@ -1,5 +1,6 @@
 # Descripción
 ¿Qué ha cambiado?
+<!-- Mark these as checked by replacing [ ] with [x] -->
 
 - [ ] Frontend
 - [ ] Backend
